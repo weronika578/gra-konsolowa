@@ -16,8 +16,9 @@ char plansza [10][10];
             {
             plansza[i][j] = ' ';
             }
-cout << plansza[i][j] << endl;
+cout << plansza[i][j];
 }
 }
  }
 
+ 
